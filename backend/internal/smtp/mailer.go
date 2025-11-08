@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/xavjamito/kin/assets"
-	"github.com/xavjamito/kin/internal/funcs"
+	"github.com/xavjamito/kin/backend/assets"
+	"github.com/xavjamito/kin/backend/internal/funcs"
 
 	"github.com/wneessen/go-mail"
 

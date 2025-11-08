@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/xavjamito/kin/internal/response"
+	"github.com/xavjamito/kin/backend/internal/response"
 )
 
 func (app *application) status(w http.ResponseWriter, r *http.Request) {

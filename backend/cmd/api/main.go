@@ -8,10 +8,10 @@ import (
 	"runtime/debug"
 	"sync"
 
-	"github.com/xavjamito/kin/internal/database"
-	"github.com/xavjamito/kin/internal/env"
-	"github.com/xavjamito/kin/internal/smtp"
-	"github.com/xavjamito/kin/internal/version"
+	"github.com/xavjamito/kin/backend/internal/database"
+	"github.com/xavjamito/kin/backend/internal/env"
+	"github.com/xavjamito/kin/backend/internal/smtp"
+	"github.com/xavjamito/kin/backend/internal/version"
 )
 
 func main() {

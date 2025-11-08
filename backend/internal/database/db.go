@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/xavjamito/kin/assets"
+	"github.com/xavjamito/kin/backend/assets"
 
 	"github.com/golang-migrate/migrate/v4"
 	"github.com/golang-migrate/migrate/v4/source/iofs"

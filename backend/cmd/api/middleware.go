@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/xavjamito/kin/internal/response"
+	"github.com/xavjamito/kin/backend/internal/response"
 
 	"github.com/tomasen/realip"
 )

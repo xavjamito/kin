@@ -7,8 +7,8 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/xavjamito/kin/internal/response"
-	"github.com/xavjamito/kin/internal/validator"
+	"github.com/xavjamito/kin/backend/internal/response"
+	"github.com/xavjamito/kin/backend/internal/validator"
 )
 
 func (app *application) reportServerError(r *http.Request, err error) {
