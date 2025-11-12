@@ -1,1 +1,1 @@
-# kin
+# Tribe (A Club and Hobby Platform)
